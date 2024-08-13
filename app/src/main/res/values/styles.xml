@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary color for the app (toolbar color) -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <!-- Primary dark color (for status bar) -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <!-- Accent color (for widgets) -->
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- Background color -->
+        <item name="android:colorBackground">@color/colorBackground</item>
+        <!-- Text color -->
+        <item name="android:textColorPrimary">@color/colorTextPrimary</item>
+        <item name="android:textColorSecondary">@color/colorTextSecondary</item>
+    </style>
+
+</resources>
+
+
+

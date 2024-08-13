@@ -1,0 +1,16 @@
+<resources>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="colorRed">#990000</color>
+    <color name="colorPrimary">#061148</color>
+    <color name="colorPrimaryDark">#041031</color>
+    <color name="colorSecondary">#1E3A8A</color>
+    <color name="colorAccent">#FF9800</color>
+    <color name="colorBackground">#F5F5F5</color>
+    <color name="colorTextPrimary">#333333</color>
+    <color name="colorTextSecondary">#FFFFFF</color>
+</resources>

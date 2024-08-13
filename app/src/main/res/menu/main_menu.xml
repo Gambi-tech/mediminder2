@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item app:showAsAction="always"
+        android:icon="@drawable/ic_menu"
+        android:title="">
+        <menu>
+            <item
+                android:id="@+id/action_home"
+                android:icon="@drawable/ic_home"
+                android:title="Home"
+                android:showAsAction="never" />
+            <item
+                android:id="@+id/action_list"
+                android:title="Medicine List"
+                android:icon="@drawable/ic_list"
+                android:showAsAction="never" />
+            <item
+                android:id="@+id/action_rate_us"
+                android:title="Rate Us"
+                android:icon="@drawable/ic_rate"
+                android:showAsAction="never" />
+        </menu>
+    </item>
+</menu>
