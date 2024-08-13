@@ -19,8 +19,8 @@ MediSync is a Kotlin based Android app to help users manage their medication sch
 ## Output
 <div align="center">
     <img src="media/img1.png" alt="img1">
-    <img src="media/img3.png" alt="img3">
     <img src="media/img2.png" alt="img2">
+    <img src="media/img3.png" alt="img3">
     <img src="media/img4.png" alt="img4">
     <img src="media/img5.png" alt="img5">
     <img src="media/img6.png" alt="img6">
